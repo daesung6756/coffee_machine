@@ -7,7 +7,7 @@ h1 {font-size:24px;font-weight:900;}
 .input-set label {display:inline-block;}
 
 .machine {border-radius:20px;}
-.machine .machine-inner {background: #ddd9cb url("http://m.ko.axpvcfloor.com/uploads/201917120/wood-texture-glue-down-vinyl-flooring47337676094.jpg");background-size:cover;background-position:center center;border-radius:20px;}
+.machine .machine-inner {background: #a3a3a3;background-position:center center;border-radius:20px;}
 .machine-head {padding:50px 50px 20px;}
 .machine-head .inner{position:relative;border-radius:20px;background-image:url("https://mblogthumb-phinf.pstatic.net/MjAxNzEwMDVfMTUz/MDAxNTA3MTM5NDY0NTc0.r9zz4x_YZZ4B6m3MiwbR41NsTFs6LzQFSNM5tUaTdpgg.bGtYOjg4-3hbvfvy9aMwkCow5wUgcrnJ8MGe5GHV0JMg.GIF.willohzeht9620/Coffee_101.gif?type=w800");background-size:cover;background-position:center -90px;height:230px;-webkit-animation: pOpacity2 .4s infinite;animation: pOpacity2 .4s infinite}
 .machine-head .inner > span {position:absolute;color:#fff;word-spacing: -.05em}
@@ -44,7 +44,7 @@ h1 {font-size:24px;font-weight:900;}
 /* box shadow */
 .bs-5 {-webkit-box-shadow:5px 5px 5px 0 rgba(0,0,0,.2);box-shadow:5px 5px 5px 0 rgba(0,0,0,.2)}
 .bs-10 {-webkit-box-shadow:10px 10px 10px 0 rgba(0,0,0,.2);box-shadow:10px 10px 10px 0 rgba(0,0,0,.2)}
-.ibs-10 {-webkit-box-shadow: inset 0 0 10px #000000;box-shadow: inset 0 0 10px #000000;}
+.ibs-10 {-webkit-box-shadow: inset 0 0 10px rgba(0,0,0,.6);box-shadow: inset 0 0 10px rgba(0,0,0,.6);}
 .ibs-30 {-webkit-box-shadow: inset 0 0 30px #000000;box-shadow: inset 0 0 30px #000000;}
 .ibs-70 {-webkit-box-shadow: inset 0 0 70px #000000;box-shadow: inset 0 0 70px #000000;}
 
